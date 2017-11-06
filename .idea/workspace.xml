@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="184b9fe5-1221-48e6-b7ea-427cc4e22fd7" name="Default" comment="" />
+    <list default="true" id="184b9fe5-1221-48e6-b7ea-427cc4e22fd7" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Calculation.java" afterPath="$PROJECT_DIR$/src/Calculation.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/StockPrices.java" afterPath="$PROJECT_DIR$/src/StockPrices.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/UserIO.java" afterPath="$PROJECT_DIR$/src/UserIO.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/WeeklysOptions.java" afterPath="$PROJECT_DIR$/src/WeeklysOptions.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/driver.java" afterPath="$PROJECT_DIR$/src/driver.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,39 +21,81 @@
       <file leaf-file-name="driver.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/driver.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="3" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StockPrices.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="StockPrices.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/StockPrices.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1360">
-              <caret line="115" column="31" lean-forward="false" selection-start-line="115" selection-start-column="31" selection-end-line="115" selection-end-column="31" />
+            <state relative-caret-position="34">
+              <caret line="138" column="30" lean-forward="false" selection-start-line="138" selection-start-column="30" selection-end-line="138" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#687#703#0" expanded="true" />
-                <element signature="e#777#804#0" expanded="true" />
-                <element signature="e#879#906#0" expanded="true" />
-                <element signature="e#2367#2375#0" expanded="true" />
-                <element signature="e#3066#3074#0" expanded="true" />
-                <element signature="e#5925#5933#0" expanded="true" />
-                <element signature="e#5983#5991#0" expanded="true" />
-                <element signature="e#7547#7555#0" expanded="true" />
-                <element signature="e#7605#7613#0" expanded="true" />
-                <element signature="e#9685#9701#0" expanded="true" />
-                <element signature="e#10390#10417#0" expanded="true" />
-                <element signature="e#10484#10492#0" expanded="true" />
-                <element signature="e#13405#13432#0" expanded="true" />
+                <element signature="e#697#713#0" expanded="true" />
+                <element signature="e#790#817#0" expanded="true" />
+                <element signature="e#895#922#0" expanded="true" />
+                <element signature="e#2553#2561#0" expanded="true" />
+                <element signature="e#3415#3423#0" expanded="true" />
+                <element signature="e#6750#6758#0" expanded="true" />
+                <element signature="e#6817#6825#0" expanded="true" />
+                <element signature="e#8702#8710#0" expanded="true" />
+                <element signature="e#8769#8777#0" expanded="true" />
+                <element signature="e#11208#11224#0" expanded="true" />
+                <element signature="e#11962#11989#0" expanded="true" />
+                <element signature="e#12062#12070#0" expanded="true" />
+                <element signature="e#15292#15319#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserIO.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/UserIO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1526">
+              <caret line="15" column="61" lean-forward="false" selection-start-line="15" selection-start-column="61" selection-end-line="15" selection-end-column="61" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WeeklysOptions.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/WeeklysOptions.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Calculation.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Calculation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="207" column="29" lean-forward="false" selection-start-line="207" selection-start-column="29" selection-end-line="207" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>`</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -58,11 +106,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/bin/StockPrices.class" />
-        <option value="$PROJECT_DIR$/src/WeeklysOptions.java" />
-        <option value="$PROJECT_DIR$/src/UserIO.java" />
-        <option value="$PROJECT_DIR$/src/Calculation.java" />
-        <option value="$PROJECT_DIR$/src/StockPrices.java" />
         <option value="$PROJECT_DIR$/src/driver.java" />
+        <option value="$PROJECT_DIR$/src/StockPrices.java" />
+        <option value="$PROJECT_DIR$/src/Calculation.java" />
+        <option value="$PROJECT_DIR$/src/UserIO.java" />
+        <option value="$PROJECT_DIR$/src/WeeklysOptions.java" />
       </list>
     </option>
   </component>
@@ -78,6 +126,7 @@
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -102,6 +151,11 @@
               <item name="StockAnalyzer" type="b2602c69:ProjectViewProjectNode" />
               <item name="StockAnalyzer" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="StockAnalyzer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StockAnalyzer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -113,7 +167,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -241,15 +295,16 @@
       <updated>1509929708129</updated>
       <workItem from="1509929726420" duration="924000" />
       <workItem from="1509930682019" duration="13669000" />
-      <workItem from="1509989176781" duration="198000" />
+      <workItem from="1509989176781" duration="2010000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14791000" />
+    <option name="totallyTimeSpent" value="16603000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -258,12 +313,12 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32948583" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18020834" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18020834" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -305,19 +360,19 @@
           <caret line="115" column="31" lean-forward="false" selection-start-line="115" selection-start-column="31" selection-end-line="115" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#687#703#0" expanded="true" />
-            <element signature="e#777#804#0" expanded="true" />
-            <element signature="e#879#906#0" expanded="true" />
-            <element signature="e#2367#2375#0" expanded="true" />
-            <element signature="e#3066#3074#0" expanded="true" />
-            <element signature="e#5925#5933#0" expanded="true" />
-            <element signature="e#5983#5991#0" expanded="true" />
-            <element signature="e#7547#7555#0" expanded="true" />
-            <element signature="e#7605#7613#0" expanded="true" />
-            <element signature="e#9685#9701#0" expanded="true" />
-            <element signature="e#10390#10417#0" expanded="true" />
-            <element signature="e#10484#10492#0" expanded="true" />
-            <element signature="e#13405#13432#0" expanded="true" />
+            <element signature="e#697#713#0" expanded="true" />
+            <element signature="e#790#817#0" expanded="true" />
+            <element signature="e#895#922#0" expanded="true" />
+            <element signature="e#2553#2561#0" expanded="true" />
+            <element signature="e#3415#3423#0" expanded="true" />
+            <element signature="e#6750#6758#0" expanded="true" />
+            <element signature="e#6817#6825#0" expanded="true" />
+            <element signature="e#8702#8710#0" expanded="true" />
+            <element signature="e#8769#8777#0" expanded="true" />
+            <element signature="e#11208#11224#0" expanded="true" />
+            <element signature="e#11962#11989#0" expanded="true" />
+            <element signature="e#12062#12070#0" expanded="true" />
+            <element signature="e#15292#15319#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -336,19 +391,19 @@
           <caret line="43" column="30" lean-forward="false" selection-start-line="43" selection-start-column="30" selection-end-line="43" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#687#703#0" expanded="true" />
-            <element signature="e#777#804#0" expanded="true" />
-            <element signature="e#879#906#0" expanded="true" />
-            <element signature="e#2367#2375#0" expanded="true" />
-            <element signature="e#3066#3074#0" expanded="true" />
-            <element signature="e#5925#5933#0" expanded="true" />
-            <element signature="e#5983#5991#0" expanded="true" />
-            <element signature="e#7547#7555#0" expanded="true" />
-            <element signature="e#7605#7613#0" expanded="true" />
-            <element signature="e#9685#9701#0" expanded="true" />
-            <element signature="e#10390#10417#0" expanded="true" />
-            <element signature="e#10484#10492#0" expanded="true" />
-            <element signature="e#13405#13432#0" expanded="true" />
+            <element signature="e#697#713#0" expanded="true" />
+            <element signature="e#790#817#0" expanded="true" />
+            <element signature="e#895#922#0" expanded="true" />
+            <element signature="e#2553#2561#0" expanded="true" />
+            <element signature="e#3415#3423#0" expanded="true" />
+            <element signature="e#6750#6758#0" expanded="true" />
+            <element signature="e#6817#6825#0" expanded="true" />
+            <element signature="e#8702#8710#0" expanded="true" />
+            <element signature="e#8769#8777#0" expanded="true" />
+            <element signature="e#11208#11224#0" expanded="true" />
+            <element signature="e#11962#11989#0" expanded="true" />
+            <element signature="e#12062#12070#0" expanded="true" />
+            <element signature="e#15292#15319#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -360,59 +415,61 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/UserIO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/WeeklysOptions.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="4" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Calculation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="391">
+          <caret line="207" column="29" lean-forward="false" selection-start-line="207" selection-start-column="29" selection-end-line="207" selection-end-column="29" />
           <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#1790#1817#0" expanded="false" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/driver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="3" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/StockPrices.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1360">
-          <caret line="115" column="31" lean-forward="false" selection-start-line="115" selection-start-column="31" selection-end-line="115" selection-end-column="31" />
+        <state relative-caret-position="34">
+          <caret line="138" column="30" lean-forward="false" selection-start-line="138" selection-start-column="30" selection-end-line="138" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#687#703#0" expanded="true" />
-            <element signature="e#777#804#0" expanded="true" />
-            <element signature="e#879#906#0" expanded="true" />
-            <element signature="e#2367#2375#0" expanded="true" />
-            <element signature="e#3066#3074#0" expanded="true" />
-            <element signature="e#5925#5933#0" expanded="true" />
-            <element signature="e#5983#5991#0" expanded="true" />
-            <element signature="e#7547#7555#0" expanded="true" />
-            <element signature="e#7605#7613#0" expanded="true" />
-            <element signature="e#9685#9701#0" expanded="true" />
-            <element signature="e#10390#10417#0" expanded="true" />
-            <element signature="e#10484#10492#0" expanded="true" />
-            <element signature="e#13405#13432#0" expanded="true" />
+            <element signature="e#697#713#0" expanded="true" />
+            <element signature="e#790#817#0" expanded="true" />
+            <element signature="e#895#922#0" expanded="true" />
+            <element signature="e#2553#2561#0" expanded="true" />
+            <element signature="e#3415#3423#0" expanded="true" />
+            <element signature="e#6750#6758#0" expanded="true" />
+            <element signature="e#6817#6825#0" expanded="true" />
+            <element signature="e#8702#8710#0" expanded="true" />
+            <element signature="e#8769#8777#0" expanded="true" />
+            <element signature="e#11208#11224#0" expanded="true" />
+            <element signature="e#11962#11989#0" expanded="true" />
+            <element signature="e#12062#12070#0" expanded="true" />
+            <element signature="e#15292#15319#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UserIO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1526">
+          <caret line="15" column="61" lean-forward="false" selection-start-line="15" selection-start-column="61" selection-end-line="15" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WeeklysOptions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

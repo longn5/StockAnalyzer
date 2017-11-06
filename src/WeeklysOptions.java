@@ -5,61 +5,68 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
 
+/*
+ * WeeklyOptions Class
+ * Class Objective:
+ * This class reads from the weekly option external file which
+ * the program can then filter out which Stock Symbol to
+ * use / modify / or delete from the list
+ */
+
 public class WeeklysOptions {
 
-	private ArrayList<String> stockSymbols = new ArrayList<String>();
+    private ArrayList<String> stockSymbols = new ArrayList<String>();
 
 
     //*********************************************************
     //Constructor BEGINS
     //*********************************************************
 
-	WeeklysOptions() {
-		File file = new File("src/NewWeeklyList.csv");
-		BufferedReader reader = null;
+    WeeklysOptions() {
+        File file = new File("src/NewWeeklyList.csv");
+        BufferedReader reader = null;
 
-		try {
-			reader = new BufferedReader(new FileReader(file));
-			String text = null;
+        try {
+            reader = new BufferedReader(new FileReader(file));
+            String text = null;
 
-			while ((text = reader.readLine()) != null) {
-				stockSymbols.add(text);
-			}
-
-		} catch (FileNotFoundException e) {
-			e.printStackTrace();
-		} catch (IOException e) {
-			e.printStackTrace();
-		} finally {
-			try {
-				if (reader != null) {
-					reader.close();
-				}
-			} catch (IOException e) {
-
-			}
-		}
-	}
+            while ((text = reader.readLine()) != null) {
+                stockSymbols.add(text);
+            }
+        } catch (FileNotFoundException e) {
+            e.printStackTrace();
+        } catch (IOException e) {
+            e.printStackTrace();
+        } finally {
+            try {
+                if (reader != null) {
+                    reader.close();
+                }
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
+        }
+    }
 
     //*********************************************************
     //Constructor ENDS
     //*********************************************************
 
-	public String getStockSymbols(int index) {
-		return stockSymbols.get(index);
-	}
+    public String getStockSymbols(int index) {
+        return stockSymbols.get(index);
+    }
 
-	public void setStockSymbols(ArrayList<String> stockSymbols) {
-		this.stockSymbols = stockSymbols;
-	}
+    public void setStockSymbols(ArrayList<String> stockSymbols) {
+        this.stockSymbols = stockSymbols;
+    }
 
-	public void printList() {
-		for (int i = 0; i < stockSymbols.size(); i++) {
-			System.out.println(stockSymbols.get(i));
-		}
-	}
+    public void printList() {
+        for (int i = 0; i < stockSymbols.size(); i++) {
+            System.out.println(stockSymbols.get(i));
+        }
+    }
 
-	public int getSize() {
-		return stockSymbols.size();
-	}
+    public int getSize() {
+        return stockSymbols.size();
+    }
 }
