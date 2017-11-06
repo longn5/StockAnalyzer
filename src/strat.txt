@@ -1,0 +1,4 @@
+2HOUR Trend direction
+30 min price crossover 200 EMA
+in tandem with
+	15 min 50MA crossover 200 EMA
